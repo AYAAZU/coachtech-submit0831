@@ -31,20 +31,21 @@
 }
 
 .hp_content_img {
-  margin-left:50%;
-  position:relative;
-  top:100px;
+  width: 50%;
+  margin-left: 50%;
+  position: relative;
+  top: 100px;
 }
 
-.hp_content_cc{
-  font-size:60px;
+.hp_content_cc {
+  font-size: 60px;
   font-weight: 500;
-  margin-top:-35px;
+  margin-top: -35px;
 }
 
-.hp_content_bg{
-  width:1000px;
+.hp_content_bg {
+  width: 75%;
   height: 180px;
-  background:rgb(0, 39, 126);
-  margin-top:-20px;
+  background: rgb(0, 39, 126);
+  margin-top: -20px;
 }
